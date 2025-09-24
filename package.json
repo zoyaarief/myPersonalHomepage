@@ -1,0 +1,37 @@
+{
+  "name": "zoya-arief-portfolio",
+  "version": "1.0.0",
+  "description": "Personal portfolio website for Zoya Arief - Computer Science Graduate Student",
+  "type": "module",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "webpack serve --open --config webpack.config.dev.js",
+    "build": "webpack --config webpack.config.prod.js"
+  },
+  "keywords": [
+    "portfolio",
+    "website",
+    "computer-science",
+    "frontend",
+    "html",
+    "css",
+    "javascript",
+    "es6"
+  ],
+  "author": "",
+  "license": "",
+  "devDependencies": {
+    "@eslint/js": "^9.36.0",
+    "copy-webpack-plugin": "^11.0.0",
+    "eslint": "^9.36.0",
+    "eslint-config-prettier": "^10.1.8",
+    "globals": "^16.4.0",
+    "html-webpack-plugin": "^5.6.0",
+    "prettier": "^3.6.2",
+    "webpack": "^5.91.0",
+    "webpack-cli": "^5.1.4",
+    "webpack-dev-server": "^5.0.4",
+    "webpack-merge": "^5.10.0"
+  }
+}
