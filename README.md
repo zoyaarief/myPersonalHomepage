@@ -83,12 +83,10 @@ This project is a personal portfolio website showcasing my education, technical 
 The website is a static site and can be deployed to any web server or hosting platform:
 
 1. **GitHub Pages**: Push to a GitHub repository and enable GitHub Pages
-2. **Netlify**: Connect your repository for automatic deployment
-3. **Vercel**: Import your project for instant deployment
 
 ## Design Decisions
 - **Minimal Design**: Clean, professional aesthetic focusing on content
-- **Blue Color Scheme**: Consistent brand colors throughout the site
+- **Same color scheme**: Consistent brand colors throughout the site
 - **Gradient Hero**: Eye-catching header to make a strong first impression
 - **Card-based Layout**: Organized content in easy-to-scan sections
 - **Smooth Animations**: Subtle transitions to enhance user experience
