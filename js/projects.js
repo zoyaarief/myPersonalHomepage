@@ -1,3 +1,4 @@
+// Great Job adding in detailed comments on your JS pages
 // Projects page functionality
 document.addEventListener('DOMContentLoaded', function() {
   console.log('Projects page loaded successfully');
