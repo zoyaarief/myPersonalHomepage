@@ -6,6 +6,8 @@ Master of Science in Computer Science
 Northeastern University
 Email: arief.z@northeastern.edu
 
+## Author Homepage https://zoyaarief.github.io/myPersonalHomepage/index.html <!--I believe we're also supposed to include a direct link to the webpage-->
+
 ## Project Objective
 This project is a personal portfolio website showcasing my education, technical skills, and projects as a Computer Science graduate student. The website demonstrates proficiency in vanilla HTML5, CSS3, and ES6+ JavaScript, featuring a clean, responsive design with interactive elements and animations.
 
@@ -28,7 +30,7 @@ This project is a personal portfolio website showcasing my education, technical 
 - **Web APIs**: Intersection Observer, DOM manipulation
 - **Development Tools**: Prettier, ESLint, Live Server
 
-## Project Structure
+## Project Structure 
 ```
 ├── index.html              # Main homepage
 ├── projects.html           # Projects showcase page
@@ -50,6 +52,7 @@ This project is a personal portfolio website showcasing my education, technical 
 ```
 
 ## Instructions to Build
+<!--Great job on the really detailed build instructions!-->
 
 ### Prerequisites
 - Node.js (version 16.0.0 or higher)
@@ -107,7 +110,7 @@ Used Gen ai tool to develop and create the last html page : the contact page
 - Generated initial code structure and boilerplate
 -
 All generated code was reviewed, customized, and integrated to meet specific project requirements and maintain consistency with personal branding.
-
+<!--Does the contact form notify you? Or send the information somewhere? Would like to know more about the functinality.-->
 ## License
 This project is licensed under the MIT License - see the [LICENSE](./LICENSE.txt) file for details.
 
