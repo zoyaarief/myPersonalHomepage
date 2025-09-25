@@ -28,6 +28,7 @@ This project is a personal portfolio website showcasing my education, technical 
 - **Web APIs**: Intersection Observer, DOM manipulation
 - **Development Tools**: Prettier, ESLint, Live Server
 
+<!--It was a bit hard to follow the file structure as compared to what the structure is in Github. A lot of the files were all in the scripts subfolder, so it was a bit hard to follow. Additionally, I think there were a lot of extra files (some from the IDE) which I think you may not need to add to the github-->
 ## Project Structure
 ```
 ├── index.html              # Main homepage
